@@ -67,4 +67,4 @@ function playGame(numRounds) {
 }
 
 // Play the game for 5 rounds
-playGame(5);
+playGame(5)
